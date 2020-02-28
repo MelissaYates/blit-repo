@@ -20,7 +20,7 @@ class App extends Component {
                   BLiT Businesses
                 </h1>
                 <h2 className="subtitle">
-                  by Ray
+                  by Melissa
                 </h2>
               </div>
             </div>
